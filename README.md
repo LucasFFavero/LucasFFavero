@@ -1,8 +1,3 @@
-### Olá! Eu sou o Lucas Fávero.
-
-- 🔭 Trabalho como Analista de Sistemas e Desenvolvedor Delphi
-- 🌱 Estou estudando C# e Angular
-
 <div>
   <a href="https://github.com/LucasFFavero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasffavero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
