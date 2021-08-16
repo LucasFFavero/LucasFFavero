@@ -1,8 +1,9 @@
 <div>
   <a href="https://github.com/LucasFFavero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasffavero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasffavero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    
 </div>
   
+    
 <br />  
   
 [![Delphi](https://img.shields.io/badge/-Delphi-red?style=flat&logo=delphi&link=https://github.com/LucasFFavero)](https://github.com/LucasFFavero)
